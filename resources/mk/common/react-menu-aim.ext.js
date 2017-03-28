@@ -1,0 +1,1 @@
+var ReactMenuAim = function() {};
